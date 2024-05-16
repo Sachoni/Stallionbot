@@ -25,7 +25,7 @@
 
 
 
-  <a aria-label="Stallion_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+  <a aria-label="Stallion_Md is a free bot to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
     <img alt="Stallion MD yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -54,7 +54,7 @@
 
 
 <p align="center"> Stallion MD whatsapp bot uses
-  <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
+  <a href="https://github.com/adiwajshing/Baileys">Advance Bot for you.</a>
 </p>
 <p align="center">
   <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
