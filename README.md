@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
+  <a href="https://youtube.com/@Stallion_bot">
     <img alt="Stallion MD" height="400" src="/lib/assets/pk.jpg">
   </a>
 </p>
@@ -54,7 +54,7 @@
 
 
 <p align="center"> Stallion MD whatsapp bot uses
-  <a href="https://github.com/adiwajshing/Baileys">Advance Bot for you.</a>
+  <a href="https://github.com/adiwajshing/Baileys">Advanced SAI.</a>
 </p>
 <p align="center">
   <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
