@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@Stallion_bot">
-    <img alt="Stallion MD" height="400" src="/lib/assets/pk.jpg">
+    <img alt="Stallion MD" height="400" src="/lib/assets/Kenya.jpg">
   </a>
 </p>
     
