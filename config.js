@@ -47,8 +47,8 @@ global.waPresence= process.env.WAPRESENCE ||  "null" ; // 'unavailable' | 'avail
 
 
 global.disable= process.env.shutdown_all_foreign_bots ||  "false" ; //
-global.waPresence= process.env.WAPRESENCE ||  "null" ; //
-global.waPresence= process.env.WAPRESENCE ||  "null" ; //
+global.disable= process.env.shutdown_all_foreign_bots ||  "false" ; 
+global.disable= process.env.shutdown_all_foreign_bots ||  "false" ; 
 
 //========================= [ AUTO READ MSGS & CMDS ] =========================\\
 global.readcmds = process.env.READ_COMMAND || "false"
